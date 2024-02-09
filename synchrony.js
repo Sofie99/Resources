@@ -445,7 +445,7 @@ var io = j((ro) => {
               if (((Te = re[W]), (J = P[Te]), !!J))
                 if (Array.isArray(J)) {
                   for (Z = J.length; (Z -= 1) >= 0; )
-                    if (!!J[Z]) {
+                    if (J[Z]) {
                       if (b(Q, re[W]))
                         B = new E(J[Z], [Te, Z], "Property", new d(J, Z));
                       else if (x(J[Z]))
@@ -8201,7 +8201,7 @@ var Fi = j((gf) => {
               if (((Te = re[W]), (J = P[Te]), !!J))
                 if (Array.isArray(J)) {
                   for (Z = J.length; (Z -= 1) >= 0; )
-                    if (!!J[Z]) {
+                    if (J[Z]) {
                       if (b(Q, re[W]))
                         B = new E(J[Z], [Te, Z], "Property", new d(J, Z));
                       else if (x(J[Z]))
@@ -9092,7 +9092,7 @@ function zi() {
       -1;
 }
 Ke.checkPatternErrors = function (t, e) {
-  if (!!t) {
+  if (t) {
     t.trailingComma > -1 &&
       this.raiseRecoverable(
         t.trailingComma,
@@ -9981,7 +9981,7 @@ K.checkPatternExport = function (t, e) {
         this.checkPatternExport(t, e.expression);
 };
 K.checkVariableExport = function (t, e) {
-  if (!!t)
+  if (t)
     for (var r = 0, i = e; r < i.length; r += 1) {
       var n = i[r];
       this.checkPatternExport(t, n.id);
@@ -16294,7 +16294,7 @@ var Gn = class extends me {
     function r(i) {
       var s;
       let n = e.scopeManager.acquire(i);
-      if (!!n)
+      if (n)
         for (let a of n.variables) {
           if (
             a.name === "arguments" ||
@@ -16563,7 +16563,7 @@ var Ut = class extends me {
     return (
       V(e, {
         ConditionalExpression(r, i, n) {
-          if (!!yt(r.test)) {
+          if (yt(r.test)) {
             if (!r.test.value) {
               r.test.value = !0;
               let s = r.consequent;
@@ -16645,7 +16645,7 @@ var Ut = class extends me {
           )
             return;
           let i = r.callee.body.body[0].argument;
-          if (!!i) {
+          if (i) {
             if (
               [
                 "FunctionExpression",
@@ -17518,7 +17518,7 @@ var Wn = class extends me {
   removeDeadVariables(e) {
     function r(i) {
       let n = e.scopeManager.acquire(i);
-      if (!!n) {
+      if (n) {
         for (let s of n.variables)
           if (
             s.name !== "arguments" &&
@@ -19786,7 +19786,7 @@ var Hn = class extends me {
     };
     this.scopeVisitor = (e, r) => {
       let i = new Map();
-      if (!!this.getUpperScope(r)) {
+      if (this.getUpperScope(r)) {
         for (let s of r.variables) {
           if (s.name === "arguments") continue;
           let a = this.getVarPrefix(s.defs[0].type) + jf(this.mt, 2).join("");
