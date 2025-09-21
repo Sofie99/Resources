@@ -1,62 +1,62 @@
 [
     {
-    "channel" : "ANTV",
-    "url" : "https://api.vidio.com/livestreamings/782/stream",
-    "poster" : "https://thumbor.prod.vidiocdn.com/kOuIjcBlgd7Dd-WQaDXb_GfUxmU=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/782/antv-de8530.jpg",
-    "group" : "vidio.com"
+        "channel": "ANTV",
+        "url": "https://api.vidio.com/livestreamings/782/stream",
+        "poster": "https://thumbor.prod.vidiocdn.com/kOuIjcBlgd7Dd-WQaDXb_GfUxmU=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/782/antv-de8530.jpg",
+        "group": "vidio.com"
     },
     {
-    "channel" : "TransTV",
-    "url" : "",
-    "poster" : "",
-    "group" : ""
+        "channel": "TransTV",
+        "url": "https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8",
+        "poster": "https://www.transtv.co.id/themes/v25.7/src/assets/logo/01-ttv.png",
+        "group": "transmedia"
     },
     {
-    "channel" : "Trans7",
-    "url" : "",
-    "poster" : "",
-    "group" : ""
+        "channel": "Trans7",
+        "url": "https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8",
+        "poster": "https://www.transtv.co.id/themes/v25.7/src/assets/logo/01-t7.png",
+        "group": "transmedia"
     },
     {
-    "channel" : "Indosiar",
-    "url" : "",
-    "poster" : "",
-    "group" : ""
+        "channel": "Indosiar",
+        "url": "https://api.vidio.com/livestreamings/205/stream",
+        "poster": "https://thumbor.prod.vidiocdn.com/e-tiJFPZKI4QjhxAHzp_5foCkGE=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-d9a3d0.jpg",
+        "group": "vidio.com"
     },
     {
-    "channel" : "MNCTV",
-    "url" : "https://toutatis.rctiplus.com/video/live/api/v1/live/2/url",
-    "poster" : "https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/MNCTV.png",
-    "group" : "rctiplus"
+        "channel": "MNCTV",
+        "url": "https://toutatis.rctiplus.com/video/live/api/v1/live/2/url",
+        "poster": "https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/MNCTV.png",
+        "group": "rctiplus"
     },
     {
-    "channel" : "RCTI",
-    "url" : "https://toutatis.rctiplus.com/video/live/api/v1/live/1/url",
-    "poster" : "https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/RCTI.png",
-    "group" : "rctiplus"
+        "channel": "RCTI",
+        "url": "https://toutatis.rctiplus.com/video/live/api/v1/live/1/url",
+        "poster": "https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/RCTI.png",
+        "group": "rctiplus"
     },
     {
-    "channel" : "SCTV",
-    "url" : "https://api.vidio.com/livestreamings/204/stream",
-    "poster" : "https://thumbor.prod.vidiocdn.com/iESh25mkdwIlSZLX4WUt256JH3U=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg",
-    "group" : "vidio.com"
+        "channel": "SCTV",
+        "url": "https://api.vidio.com/livestreamings/204/stream",
+        "poster": "https://thumbor.prod.vidiocdn.com/iESh25mkdwIlSZLX4WUt256JH3U=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg",
+        "group": "vidio.com"
     },
     {
-    "channel" : "GTV",
-    "url" : "https://toutatis.rctiplus.com/video/live/api/v1/live/3/url",
-    "poster" : "https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/GTV.png",
-    "group" : "rctiplus"
+        "channel": "GTV",
+        "url": "https://toutatis.rctiplus.com/video/live/api/v1/live/3/url",
+        "poster": "https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/GTV.png",
+        "group": "rctiplus"
     },
     {
-    "channel" : "TvOne",
-    "url" : "https://api.vidio.com/livestreamings/783/stream",
-    "poster" : "https://thumbor.prod.vidiocdn.com/oxJn_nsXnzIcI2lFivvZbbm9PHQ=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/783/tvone-bb42ce.jpg",
-    "group" : "vidio.com"
+        "channel": "TvOne",
+        "url": "https://api.vidio.com/livestreamings/783/stream",
+        "poster": "https://thumbor.prod.vidiocdn.com/oxJn_nsXnzIcI2lFivvZbbm9PHQ=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/783/tvone-bb42ce.jpg",
+        "group": "vidio.com"
     },
     {
-    "channel" : "MetroTV",
-    "url" : "https://api.vidio.com/livestreamings/777/stream",
-    "poster" : "https://thumbor.prod.vidiocdn.com/3f1SUZvUgp_5WlH1xqSYL6Mnz_E=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/777/metro-tv-2eba56.jpg",
-    "group" : "vidio.com"
+        "channel": "MetroTV",
+        "url": "https://api.vidio.com/livestreamings/777/stream",
+        "poster": "https://thumbor.prod.vidiocdn.com/3f1SUZvUgp_5WlH1xqSYL6Mnz_E=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/777/metro-tv-2eba56.jpg",
+        "group": "vidio.com"
     }
 ]
